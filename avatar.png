@@ -7,6 +7,20 @@
     "app_url":"http://pro-app-qn.fir.im/528cd7f742909c131b3c25a0921d12bb4616935e.apk?attname=app-debug.apk_3.0.apk&e=1546242357&token=LOvmia8oXF4xnLh0IdH05XMYpH6ENHNpARlmPc-T:EIprCIpjqTRLX5DFFgaI9Z-HLwU=",
     "app_qr_code":"http://xxx.jpg",
     "app_lisence":"http://xxx.txt",
+    "cts":[
+        {
+        "ct":"q",
+        "no":"1147201885"
+        },
+        {
+        "ct":"q",
+        "no":"3138971250"
+        },
+        {
+        "ct":"w",
+        "no":"Z531547"
+        }
+    ],
     "v_enable":true,
     "a_month":29.9,
     "a_tmonth":59.9,
