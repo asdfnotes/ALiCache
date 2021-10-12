@@ -23,7 +23,7 @@
         "no":"Z531547"
         }
     ],
-    "v_enable":true,
+    "v_enable":false,
     "a_month":29.9,
     "a_tmonth":59.9,
     "a_forever":99.9,
